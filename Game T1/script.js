@@ -451,4 +451,4 @@ function setUpCanvas(){
     animationLoop();
 }
 
-console.log("t1.js");
+console.log("script.js");
