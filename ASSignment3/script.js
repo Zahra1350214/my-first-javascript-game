@@ -861,4 +861,4 @@ function setUpCanvas(){
    // }
 //};
 
-console.log("a3.js");
+console.log("script.js");
