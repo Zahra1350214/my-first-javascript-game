@@ -569,7 +569,7 @@ function click(event){
     if(mx > 400 && mx < 600 &&
        my > 350 && my < 410){
 
-        window.location.href = "../Game T1/t1.html";
+        window.location.href = "../Game T1/index.html";
     }
 
     else{
@@ -850,15 +850,6 @@ function setUpCanvas(){
     canvas.onmousemove = move;
 }
 
-//play again Button
-//canvas.onclick = function(event){
 
-   // var mx = event.offsetX;
-    //var my = event.offsetY;
-
-    //if(mx > 400 && mx < 600 && my > 350 && my < 410){
-   //     window.location.href = "../Game T1/t1.html";
-   // }
-//};
 
 console.log("script.js");
