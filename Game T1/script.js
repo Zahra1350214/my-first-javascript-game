@@ -98,7 +98,7 @@ function animationLoop(){
 
         else if(level == 3 && score > 30){
 
-            window.location.href = "../Assignment3/a3.html";
+            window.location.href = "../ASSignment3/index.html";
             return;
 
         }
